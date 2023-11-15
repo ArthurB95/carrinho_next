@@ -51,9 +51,8 @@ $ npm run dev
 
 ## 🛠 Technologies
 
-The technology used for this application was ReactJS, NodeJS, MongoDB, Cloudinary, OpenAI, TailwindCSS, below is the official documentation:
+The technology used for this application was Next.js and Vercel below is the official documentation:
 
--   **[REACTJS](https://react.dev/)**
 -   **[NEXTJS](https://nextjs.org/)**
 -   **[VERCEL](https://vercel.com/)**
 ---

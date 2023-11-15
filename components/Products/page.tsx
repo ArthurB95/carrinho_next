@@ -8,11 +8,7 @@ import ProductCard from "../ProductCard/page";
 import Loading from "../Loading/page";
 import AppContext from "@/context/AppContext";
 
-interface ProductsProps {
-  title: string;
-}
-
-const Products = ({ title }: ProductsProps) => {
+const Products = () => {
 
   const {products, setProducts, loading, setLoading} = useContext(AppContext)
   
